@@ -1,5 +1,5 @@
 a = 33
-b = 20
+b = 40
 
 if b > a:
   print("b is bigger than a.")
